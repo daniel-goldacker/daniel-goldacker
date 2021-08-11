@@ -1,4 +1,5 @@
-### Olá, seja bem vindo ao meu GITHUB, eu sou [Daniel Goldacker!](https://github.com/daniel-goldacker) 👋
+### Olá, eu sou a [Daniel Goldacker](https://github.com/daniel-goldacker), seja bem-vindo ao meu repositório no GitHub 👋 
+
 
 Sou desenvolvedor, autodidata e apaixonado por inovação e tecnologia, trabalhei com diversos tipos de tecnologias ajudando pessoas e empresas a se desenvolverem tecnologicamente.
 
