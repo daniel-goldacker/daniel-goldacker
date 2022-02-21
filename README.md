@@ -1,7 +1,7 @@
 ### Olá, eu sou [Daniel Goldacker](https://github.com/daniel-goldacker), seja bem-vindo ao meu repositório no GitHub 👋 
 
 
-Sou desenvolvedor, autodidata e apaixonado por inovação e tecnologia, trabalhei com diversos tipos de tecnologias ajudando pessoas e empresas a se desenvolverem tecnologicamente.
+Sou entusiasta da área de tecnologia, autodidata e apaixonado por inovação e tecnologia, trabalhei com diversos tipos de tecnologias ajudando pessoas e empresas a se desenvolverem tecnologicamente.
 
 <div>
  <a href="https://www.linkedin.com/in/daniel-goldacker-2464597a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
