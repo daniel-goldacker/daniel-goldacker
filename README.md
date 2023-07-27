@@ -4,7 +4,7 @@ Sou apaixonado por APIs! Já estou nessa há mais de 10 anos, trabalhando com te
 
 Para mim, as APIs são o coração do desenvolvimento de software hoje em dia. Estou sempre procurando maneiras novas para construílas e deixá-las mais eficientes e fáceis de usar. Procuro ficar sempre por dentro das últimas tendências e sei como aplicá-las pra criar soluções top de linha.
 
-Se você tá procurando um expert em APIs habilidoso e apaixonado por tecnologia, é só dar um alô para tomarmos um café ☕
+Se você está procurando um expert em APIs habilidoso e apaixonado por tecnologia para conversar, é só dar um alô para tomarmos um café ☕
 
 
 <div>
