@@ -1,6 +1,10 @@
-### Olá, eu sou [Daniel Goldacker](https://github.com/daniel-goldacker), seja bem-vindo ao meu repositório no GitHub 👋 
+E aí, pessoal! Sou o [Daniel Goldacker](https://github.com/daniel-goldacker), seja bem-vindo ao meu repositório no GitHub 👋 
 
-Engenheiro de Software formado em sistemas da informação e um entusiasta da área de tecnologia, autodidata e apaixonado por inovação e tecnologia, com mais de 10 anos de experiência profissional em desenvolvimento com os mais diversos tipos de tecnologias sempre com foco em ajudar pessoas e empresas a se desenvolverem tecnologicamente.
+Sou apaixonado por APIs! Já estou nessa há mais de 10 anos, trabalhando com tecnologia em várias empresas. Sou fissurado em criar soluções de software que se conectem e proporcionem uma experiência incrível para as pessoas.
+
+Para mim, as APIs são o coração do desenvolvimento de software hoje em dia. Estou sempre procurando maneiras novas para construílas e deixá-las mais eficientes e fáceis de usar. Procuro ficar sempre por dentro das últimas tendências e sei como aplicá-las pra criar soluções top de linha.
+
+Se você tá procurando um expert em APIs habilidoso e apaixonado por tecnologia, é só dar um alô para tomarmos um café ☕
 
 
 <div>
