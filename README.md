@@ -1,14 +1,47 @@
-### E aí, pessoal! Sou o [Daniel Goldacker](https://github.com/daniel-goldacker), seja bem-vindo ao meu repositório no GitHub 👋 
+<h1 align="center">Fala aí! 👋 Eu sou o Daniel Goldacker</h1>
 
-Sou apaixonado por APIs! Já estou nessa há mais de 10 anos, trabalhando com tecnologia em várias empresas. Sou fissurado em criar soluções de software que se conectem e proporcionem uma experiência incrível para as pessoas.
+<p align="center">
+  <strong>💡 Apaixonado por APIs • 🧠 Mais de 10 anos de experiência em tecnologia • 🚀 Criador de soluções que conectam</strong>
+</p>
 
-Para mim, as APIs são o coração do desenvolvimento de software hoje em dia. Estou sempre procurando maneiras novas para construílas e deixá-las mais eficientes e fáceis de usar. Procuro ficar sempre por dentro das últimas tendências e sei como aplicá-las pra criar soluções top de linha.
+---
 
-Se você está procurando um expert em APIs habilidoso e apaixonado por tecnologia para conversar, é só me chamar por uma das redes abaixo👇
+### 👨‍💻 Sobre mim
 
+Sou **desenvolvedor apaixonado por APIs**, com mais de uma década de experiência ajudando empresas a criarem soluções escaláveis, seguras e conectadas. Acredito que **APIs são o coração do desenvolvimento moderno** – e é por isso que dedico meu tempo a projetar, construir e evoluir interfaces que fazem a diferença.
 
-<div>
- <a href="https://www.linkedin.com/in/daniel-goldacker-2464597a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://api.whatsapp.com/send?phone=55047991457410" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-Ibe25?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href = "mailto:daniel-goldacker@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Busco constantemente maneiras de **otimizar integrações, melhorar a experiência dos desenvolvedores** e acompanhar as tendências do ecossistema de APIs. Gosto de aprender, compartilhar e colaborar com outros profissionais que também respiram tecnologia.
+
+---
+
+### 🚀 O que você vai encontrar por aqui?
+
+- Repositórios com exemplos de **autenticação e autorização com JWT**
+- Projetos focados em **IDP (Identity Provider)**
+- Automação de testes com **Selenium + undetected_chromedriver**
+- Utilitários para **Streamlit e dashboards interativos**
+- Alguns experimentos, protótipos e ideias que compartilho com a comunidade
+
+---
+
+### 📫 Me encontre por aí
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-goldacker-2464597a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=55047991457410" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="mailto:daniel-goldacker@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
+
+---
+
+### ✨ Vamos trocar uma ideia?
+
+Se você curte **discutir ideias**, **compartilhar experiências** ou precisa de alguém para **trocar uma ideia sobre arquitetura de APIs**, manda mensagem! Sempre aberto a boas conversas e colaborações. 😉
+
+---
